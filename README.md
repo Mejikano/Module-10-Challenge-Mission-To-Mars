@@ -17,11 +17,11 @@
 
 **Home Page Mars Scrapping**
 
-![Mars Scrapping Home page](https://github.com/Mejikano/Module-10-Challenge-Mission-To-Mars/tree/main/Resources/mars_scrapping_home.png)
+![Mars Scrapping Home page](https://github.com/Mejikano/Module-10-Challenge-Mission-To-Mars/blob/main/Resources/mars_scrapping_home.png)
 
 **Enhanced Mars facts table**
 
-![Mars Facts](https://github.com/Mejikano/Module-10-Challenge-Mission-To-Mars/tree/main/Resources/enhanced_mars_facts.png)
+![Mars Facts](https://github.com/Mejikano/Module-10-Challenge-Mission-To-Mars/blob/main/Resources/enhanced_mars_facts.png)
 
 Note: Mars Facts html table comes from a panda´s function therefore classes required for Bootstrap styling cannot be inserted directly into the html pages: index.html. Panda to_html function allows classes attribute as a list or tuple passing parameters; refer below snippet. 
 
@@ -46,4 +46,4 @@ def mars_facts():
 
 **Mars Hemispheres**
 
-![Mars Facts](https://github.com/Mejikano/Module-10-Challenge-Mission-To-Mars/tree/main/Resources/mars_hemisphere.png)
+![Mars Facts](https://github.com/Mejikano/Module-10-Challenge-Mission-To-Mars/blob/main/Resources/mars_hemisphere.png)
